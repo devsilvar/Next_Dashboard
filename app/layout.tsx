@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { nunito } from './ui/font';
+import { nunito } from './ui/fonts';
 
 export default function RootLayout({
   children,

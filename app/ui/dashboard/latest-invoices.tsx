@@ -1,7 +1,7 @@
 import { ArrowPathIcon } from '@heroicons/react/24/outline';
 
 import Image from 'next/image';
-import { lusitana } from '../font';
+import { lusitana } from '../fonts';
 import { LatestInvoice } from '@/app/lib/definitions';
 export default async function LatestInvoices({
   latestInvoices,
